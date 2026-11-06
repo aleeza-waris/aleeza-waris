@@ -1,16 +1,16 @@
-# Hi, I'm Aleeza Waris 👋
+# Hi, I'm Aleeza Waris
 
 ### MERN Stack Developer
 
-I'm a Computer Science graduate passionate about building full-stack web applications and solving real-world problems through technology.
+I'm a Computer Science graduate interested in building full-stack web applications and solving real-world problems through technology.
 
-I enjoy working with frontend and backend technologies to build practical, user-focused applications.
+I enjoy working across the frontend and backend, developing responsive user interfaces, building REST APIs, and integrating databases and third-party services.
 
-### Tech Stack
+## Tech Stack
 
 **Frontend**
 - HTML, CSS, JavaScript
-- React.js, Next.js
+- React.js, Next.js, TypeScript
 - Tailwind CSS, Ant Design, shadcn/ui
 
 **Backend**
@@ -23,18 +23,33 @@ I enjoy working with frontend and backend technologies to build practical, user-
 - Postman
 - VS Code
 
-### Featured Projects
+## Featured Projects
 
-- **CareerScan AI** – An AI-powered career assistant for resume analysis and tailored career documents.
-- **Task Board** – A task management application built using modern frontend technologies.
-- **Portfolio Projects** – Explore my repositories for more development work.
+### 1. CareerScan AI
+An AI-powered career assistant that analyzes CVs against job descriptions, identifies skill gaps, and helps users create tailored CVs and cover letters.
 
-### Currently
-- Building full-stack web applications.
-- Improving my MERN stack development skills.
-- Learning professional software development practices.
+**Tech:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Gemini AI
 
-### Connect With Me
+- [Frontend Repository](https://github.com/aleeza-waris/CareerScan-Frontend)
+- [Backend Repository](https://github.com/aleeza-waris/CareerScan-Backend)
 
-- GitHub: [aleeza-waris](https://github.com/aleeza-waris)
-- LinkedIn: www.linkedin.com/in/aleeza-waris-84b695338
+### 2. Tandem — Real-Time Chat Application
+A full-stack chat application supporting private one-to-one messaging, online presence, typing indicators, and persistent conversation history.
+
+**Tech:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Socket.IO
+
+- [Frontend Repository](https://github.com/aleeza-waris/tandem-real-time-chat-application-frontend)
+- [Backend Repository](https://github.com/aleeza-waris/tandem-real-time-chat-application-backend)
+
+### 3. Remindly — Smart Reminder Application
+A full-stack reminder management application with automated email notifications, dashboard summaries, and configurable reminder settings.
+
+**Tech:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Gmail API, node-cron
+
+- [Frontend Repository](https://github.com/aleeza-waris/remindly-smart-reminder-application-frontend)
+- [Backend Repository](https://github.com/aleeza-waris/remindly-smart-reminder-application-backend)
+
+## Connect With Me
+
+- **GitHub:** [aleeza-waris](https://github.com/aleeza-waris)
+- **LinkedIn:** www.linkedin.com/in/aleeza-waris-84b695338
